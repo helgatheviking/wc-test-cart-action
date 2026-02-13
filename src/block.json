@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "test-cart-action/action",
+  "title": "Test Cart Action",
+  "category": "woocommerce",
+  "description": "Registers a test cart item action",
+  "supports": {
+    "inserter": false
+  },
+  "textdomain": "test-cart-action",
+  "viewScript": "file:./frontend.js"
+}
