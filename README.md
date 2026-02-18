@@ -6,6 +6,8 @@ An example plugin demonstrating how to register custom cart item actions in WooC
 
 This plugin adds a "Custom Action" button to every item in the WooCommerce Cart block. When clicked, it displays an alert with the cart item key. This serves as a minimal working example of the Cart Item Actions registry system.
 
+![Image](https://github.com/user-attachments/assets/824ebcd2-82df-4913-9922-a573f8cb92e7)
+
 ## Requirements
 
 - WordPress 6.0 or higher
